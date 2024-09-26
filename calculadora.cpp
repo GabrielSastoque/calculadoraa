@@ -14,6 +14,6 @@ if(a==0 && b==0){
 }else{
 	xResultado= a/b;
     }
-
+	cout<<"El resultado de su suma es "<<xResultado;
  return 0;   
 }
